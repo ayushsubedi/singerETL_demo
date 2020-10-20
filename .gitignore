@@ -109,6 +109,8 @@ venv/
 ENV/
 env.bak/
 venv.bak/
+env_tap_covid/
+env_target_csv/
 
 # Spyder project settings
 .spyderproject
